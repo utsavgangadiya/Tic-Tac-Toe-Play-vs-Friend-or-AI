@@ -32,3 +32,11 @@ A stylish Tic-Tac-Toe game with AI opponent and theme toggle (light/dark mode).
 ---
 
 Made with ❤️ for fun and learning!
+
+## Developer
+
+**Name:** [Utsav Gangadiya]  
+**GitHub:** [utsav gangadiya](https://github.com/utsavgangadiya)  
+**Email:** utsavgangadiya886@gmail.com
+
+**Made with ❤️ for Indian culture and knowledge.**
